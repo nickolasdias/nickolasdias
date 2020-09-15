@@ -19,10 +19,6 @@ I ❤️ data science !
           </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>.NET</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/dotnet.svg">
-      </td>
-      <td width="25%" align="center">
         <span>Android</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
       </td>
