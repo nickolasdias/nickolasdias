@@ -36,4 +36,4 @@ I ❤️ data science !
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=franciscoamartin.franciscoamartin)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nickolasdias.nickolasdias)
