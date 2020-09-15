@@ -1,6 +1,6 @@
 # Hello World, I'm Nickolas Dias
 
- [![Linkedin Badge](https://img.shields.io/badge/-nickolasdias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickolasdias/)](https://www.linkedin.com/in/franciscoamartin/)
+ [![Linkedin Badge](https://img.shields.io/badge/-nickolasdias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickolasdias/)](https://www.linkedin.com/in/nickolas-leit%C3%A3o-dias-691544193/)
 [![DEV Badge](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=dev.to&logoColor=white&link=https://franciscomartin.com.br)](https://franciscomartin.com.br)
 [![DEV Badge](https://img.shields.io/badge/-MarketingX-1E9?style=flat-square&logo=dev.to&logoColor=white&link=https://marketingexe.com.br)](https://marketingexe.com.br)
 [![Gmail Badge](https://img.shields.io/badge/-franciscoaugustomartin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franciscoaugustomartin@gmail.com)](mailto:franciscoaugustomartin@gmail.com)
