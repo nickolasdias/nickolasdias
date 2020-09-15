@@ -9,7 +9,7 @@ I ❤️ data science !
 
 :vulcan_salute: I am currently focused on developing data science projects.
 
-:writing_hand: Enthusiastic about developing technologies that help the world to be better.
+:writing_hand: Enthusiastic about developing projects that help solve business problems.
 
 ## My Skills
 
