@@ -16,15 +16,7 @@ I ❤️ data science !
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>JavaScript</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>React JS</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-    </tr>
+          </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span>.NET</span><br><br>
