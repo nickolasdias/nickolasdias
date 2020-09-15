@@ -17,14 +17,6 @@ I ❤️ data science !
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>HTML5</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>CSS3</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
         <span>JavaScript</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
