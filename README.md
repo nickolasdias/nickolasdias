@@ -7,7 +7,7 @@ I ❤️ data science !
 
 :computer: Future Data Scientist 
 
-:vulcan_salute: I am currently focused on the development of microservices.
+:vulcan_salute: I am currently focused on the my development in Data Science.
 
 :writing_hand: Enthusiastic about developing technologies that help the world to be better.
 
