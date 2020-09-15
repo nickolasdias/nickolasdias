@@ -1,11 +1,11 @@
-# Hello World, I'm Nickolas Dias
+# Hello World, I'm Nickolas Leitão Dias
 
  [![Linkedin Badge](https://img.shields.io/badge/-nickolasdias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickolasdias/)](https://www.linkedin.com/in/nickolas-leit%C3%A3o-dias-691544193/) [![Gmail Badge](https://img.shields.io/badge/-nickolas.leitao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nickolas.leitao@gmail.com)](mailto:nickolas.leitao@gmail.com)
 
 
 I ❤️ data science !
 
-:computer: Software Developer, currently based in Brazil, at HBSIS/Ambev. 
+:computer: Future Data Scientist 
 
 :vulcan_salute: I am currently focused on the development of microservices.
 
