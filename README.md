@@ -19,8 +19,8 @@ I ❤️ data science !
           </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Android</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
+        <span>python</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
         <span>C#</span><br><br>
