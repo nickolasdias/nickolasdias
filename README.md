@@ -19,27 +19,9 @@ I ❤️ data science !
           </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>python</span><br><br>
+        <span>Python</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>C#</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>JAVA</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Kotlin</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Azure</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/azure.svg">
-      </td>
+      </td>    
       <td width="25%" align="center">
         <span>Git</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
