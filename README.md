@@ -26,10 +26,6 @@ I ❤️ data science !
         <span>Git</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
       </td>
-     <td width="25%" align="center">
-        <span>SQL</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sql.svg">
-      </td>
     </tr>
   </tbody>
 </table>
