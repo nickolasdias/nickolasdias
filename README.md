@@ -1,39 +1,39 @@
-# Olá Mundo, eu sou Nickolas Dias!!!
+# Hello World, I am Nickolas Dias!!!
 
  [![Linkedin Badge](https://img.shields.io/badge/-nickolasdias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickolasdias/)](https://www.linkedin.com/in/nickolas-leit%C3%A3o-dias-691544193/) [![Gmail Badge](https://img.shields.io/badge/-nickolas.leitao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nickolas.leitao@gmail.com)](mailto:nickolas.leitao@gmail.com)
 
 
-Eu ❤️ ciências de dados !
+I ❤️ data science !
 
-:computer: Futuro Data Scientist 
+:computer: Future Data Scientist 
 
-:vulcan_salute: Estou atualmente focado no desenvolvimento de projetos de data science.
+:vulcan_salute: I am currently  focused on data science development.
 
-:writing_hand: Entusiasmado com o desenvolvimento de projetos que ajudam a resolver problemas de negócios.
-
----
-
-Olá, eu sou Nickolas Dias. Sou graduado em Matemática Aplicada.
-
-Nos últimos meses, tenho feito projetos de ciência de dados para desenvolver habilidades e pensamento analítico que ajudam a resolver problemas de negócios.
-
-Gosto de colaborar com projetos que mudam a forma como as empresas operam para ter um impacto positivo na vida das pessoas.
-
-Estou em constante aprendizado para crescer como **Data Scientist** e como pessoa.
-
-Você precisa resolver um problema de negócio usando a ciência dos dados? Vamos resolvê-lo juntos ?
-
-Terei todo o prazer em ajudar você.
+:writing_hand: Enthusiastic about developing projects that help solve business problems.
 
 ---
 
-# Projetos
+Hi, I'm Nickolas Dias. I have a degree in Applied Mathematics.
+
+In recent months, I have been doing data science projects to develop skills and analytical thinking that help solve business problems.
+
+I like to collaborate with projects that change the way companies operate to have a positive impact on people's lives.
+
+I am constantly learning to grow as **Data Scientist** and as a person.
+
+Do you need to solve a business problem using data science? Let's solve it together ?
+
+I will be happy to help you.
+
+---
+
+# Projects
 
 ### [House Rocket Company](https://github.com/nickolasdias/houserocketcompany)
 
 <br>
 
-## Minhas Habilidades
+## My Skills
 
 <table>
   <tbody>
@@ -93,6 +93,6 @@ Terei todo o prazer em ajudar você.
   </tbody>
 </table>
 
-## 𝗩𝗶𝘀𝗶𝘁as
+## 𝗩𝗶𝘀𝗶tors
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nickolasdias.nickolasdias)
