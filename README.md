@@ -29,20 +29,7 @@ I'll be happy to help you.
 
 ### [House Rocket Company](https://github.com/nickolasdias/houserocketcompany)
 
-In a quarterly report meeting at Rossmann, the directors board identified an increase in competitors stores openings.
-
-Project repo: https://github.com/brunokatekawa/RossmannSales
-
 <br>
-
-### [On People Analytics - Employee turnover](https://github.com/brunokatekawa/PeopleAnalytics_Turnover)
-
-With a trillion dollars on the table, businesses may also want to take other steps to curb turnover and keep their workforce happy and engaged.
-
-Project repo: https://github.com/brunokatekawa/PeopleAnalytics_Turnover
-
-<br>
-
 
 ## My Skills
 
