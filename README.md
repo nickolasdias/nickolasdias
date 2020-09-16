@@ -1,4 +1,4 @@
-# Hello World, I'm Nickolas Leitão Dias
+# Hello World, I'm Nickolas Dias
 
  [![Linkedin Badge](https://img.shields.io/badge/-nickolasdias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickolasdias/)](https://www.linkedin.com/in/nickolas-leit%C3%A3o-dias-691544193/) [![Gmail Badge](https://img.shields.io/badge/-nickolas.leitao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nickolas.leitao@gmail.com)](mailto:nickolas.leitao@gmail.com)
 
@@ -11,6 +11,17 @@ I ❤️ data science !
 
 :writing_hand: Enthusiastic about developing projects that help solve business problems.
 
+Hello, I'm Nickolas Dias. I am graduated Applicated Math.
+
+In the last months, I've been doing data science projects to develop skills and analytical thinking that help solve business problems.
+
+I enjoy collaborating with projects that changes the way companies operate to make a positive impact on people's lives.
+
+I am constantly learning to grow as a data scientist and as a person.
+
+Do you need to solve a businees problem using data science ? Let's solve it together ?
+
+I'll be happy to help you.
 
 ## My Skills
 
