@@ -19,12 +19,13 @@ Nos últimos meses, tenho feito projetos de ciência de dados para desenvolver h
 
 Gosto de colaborar com projetos que mudam a forma como as empresas operam para ter um impacto positivo na vida das pessoas.
 
-Estou em constante aprendizado para crescer como **data scientist*** e como pessoa.
+Estou em constante aprendizado para crescer como **Data Scientist** e como pessoa.
 
 Você precisa resolver um problema de negócio usando a ciência dos dados? Vamos resolvê-lo juntos ?
 
 Terei todo o prazer em ajudar você.
 
+---
 
 # Projetos
 
