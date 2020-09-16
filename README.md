@@ -12,28 +12,6 @@ I ❤️ data science !
 :writing_hand: Enthusiastic about developing projects that help solve business problems.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## My Skills
 
 <table>
@@ -79,10 +57,6 @@ I ❤️ data science !
         <img height="64px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
       </td>
       <td width="25%" align="center">
-        <span>Apache Spark</span><br><br>
-        <img height="64px" src="https://spark.apache.org/images/spark-logo-trademark.png">
-      </td>
-      <td width="25%" align="center">
         <span>Power BI</span><br><br>
         <img height="64px" src="https://uploaddeimagens.com.br/images/002/851/738/full/powerbi_logo.png?1598489763">
       </td>
@@ -95,10 +69,6 @@ I ❤️ data science !
       <td width="25%" align="center">
         <span>Heroku</span><br><br>
         <img height="64px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Streamlit</span><br><br>
-        <img height="64px" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e18182ad27bcfbb9dff263a_RGB_Logo_Horizontal_Color_Light_Bg-p-1080.png">
       </td>
     </tr>
   </tbody>
