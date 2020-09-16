@@ -1,37 +1,38 @@
-# Hello World, I'm Nickolas Dias
+# Olá Mundo, Eu sou Nickolas Dias!!!
 
  [![Linkedin Badge](https://img.shields.io/badge/-nickolasdias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickolasdias/)](https://www.linkedin.com/in/nickolas-leit%C3%A3o-dias-691544193/) [![Gmail Badge](https://img.shields.io/badge/-nickolas.leitao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nickolas.leitao@gmail.com)](mailto:nickolas.leitao@gmail.com)
 
 
-I ❤️ data science !
+Eu ❤️ ciências de dados !
 
-:computer: Future Data Scientist 
+:computer: Futuro Data Scientist 
 
-:vulcan_salute: I am currently focused on developing data science projects.
+:vulcan_salute: Estou atualmente focado no desenvolvimento de projetos de data science.
 
-:writing_hand: Enthusiastic about developing projects that help solve business problems.
+:writing_hand: Entusiasmado com o desenvolvimento de projetos que ajudam a resolver problemas de negócios.
 
 ---
 
-Hi, I'm Nickolas Dias. I am graduated Applicated Math.
+Olá, eu sou Nickolas Dias. Sou graduado em Matemática Aplicada.
 
-In the last months, I've been doing data science projects to develop skills and analytical thinking that help solve business problems.
+Nos últimos meses, tenho feito projetos de ciência de dados para desenvolver habilidades e pensamento analítico que ajudam a resolver problemas de negócios.
 
-I enjoy collaborating with projects that changes the way companies operate to make a positive impact on people's lives.
+Gosto de colaborar com projetos que mudam a forma como as empresas operam para ter um impacto positivo na vida das pessoas.
 
-I am constantly learning to grow as a **data scientist** and as a person.
+Estou em constante aprendizado para crescer como **data scientist*** e como pessoa.
 
-Do you need to solve a businees problem using data science ? Let's solve it together ?
+Você precisa resolver um problema de negócio usando a ciência dos dados? Vamos resolvê-lo juntos ?
 
-I'll be happy to help you.
+Terei todo o prazer em ajudar você.
 
-# Projects
+
+# Projetos
 
 ### [House Rocket Company](https://github.com/nickolasdias/houserocketcompany)
 
 <br>
 
-## My Skills
+## Minhas Habilidades
 
 <table>
   <tbody>
@@ -91,6 +92,6 @@ I'll be happy to help you.
   </tbody>
 </table>
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+## 𝗩𝗶𝘀𝗶𝘁as
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nickolasdias.nickolasdias)
