@@ -11,6 +11,8 @@ I ❤️ data science !
 
 :writing_hand: Enthusiastic about developing projects that help solve business problems.
 
+
+
 Hello, I'm Nickolas Dias. I am graduated Applicated Math.
 
 In the last months, I've been doing data science projects to develop skills and analytical thinking that help solve business problems.
