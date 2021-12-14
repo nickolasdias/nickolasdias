@@ -29,11 +29,13 @@ I will be happy to help you.
 
 # Projects
 
+### [Cardio Catch Diseases Company](https://github.com/nickolasdias/Cardio-Catch-Diseases/tree/master)
+
 ### [House Rocket Company](https://github.com/nickolasdias/houserocketcompany)
 
-### [Rossmann's Store](https://github.com/nickolasdias/Rossmann)
+### [Risco de Crédito](https://github.com/nickolasdias/risco-de-credito)
 
-### [Cardio Catch Diseases Company](https://github.com/nickolasdias/Cardio-Catch-Diseases/tree/master)
+### [Rossmann's Store](https://github.com/nickolasdias/Rossmann)
 
 ### [Top Bank Company](https://github.com/nickolasdias/topbankcompany)
 
