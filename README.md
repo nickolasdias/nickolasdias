@@ -27,7 +27,7 @@ I will be happy to help you.
 
 ---
 
-# Projects
+# Data Science Projects
 
 ### [Cardio Catch Diseases Company](https://github.com/nickolasdias/Cardio-Catch-Diseases/tree/master)
 
@@ -38,6 +38,11 @@ I will be happy to help you.
 ### [Rossmann's Store](https://github.com/nickolasdias/Rossmann)
 
 ### [Top Bank Company](https://github.com/nickolasdias/topbankcompany)
+
+
+# Data Analysis Projects
+
+### [Churn Analysis of a Banking Institution]
 
 <br>
 
