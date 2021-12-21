@@ -40,9 +40,9 @@ I will be happy to help you.
 ### [Top Bank Company](https://github.com/nickolasdias/topbankcompany)
 
 
-# Data Analysis Projects
 
-### [Churn Analysis of a Banking Institution](https://github.com/nickolasdias/analisedechurn)
+
+
 
 <br>
 
