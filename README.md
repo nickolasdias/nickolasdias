@@ -42,7 +42,7 @@ I will be happy to help you.
 
 # Data Analysis Projects
 
-### [Churn Analysis of a Banking Institution]
+### [Churn Analysis of a Banking Institution](https://github.com/nickolasdias/analisedechurn)
 
 <br>
 
