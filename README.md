@@ -5,7 +5,7 @@
 
 
 
-:computer: Future Data Scientist 
+:computer: Data Scientist 
 
 :vulcan_salute: I am currently  focused on data science development.
 
