@@ -33,6 +33,8 @@ I will be happy to help you.
 
 ### [House Rocket Company](https://github.com/nickolasdias/houserocketcompany)
 
+### [Departamento de Marketing - Segmentação de Clientes](https://github.com/nickolasdias/marketing)
+
 ### [Risco de Crédito](https://github.com/nickolasdias/risco-de-credito)
 
 ### [Rossmann's Store](https://github.com/nickolasdias/Rossmann)
